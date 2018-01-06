@@ -2,8 +2,8 @@
 >学习内容[廖雪峰的官方网站](https://www.liaoxuefeng.com/)
 
 ## 初次见面
-* 基本的输入：input()
-1_do_input
+* 基本的输入：input() [1_do_input](https://github.com/scutpaul/skill/blob/master/python/1_do_input.py)
+
 
 ## 基本的数据类型
 * 编码：ASCII UTF-8 Unicode [2_code](https://github.com/scutpaul/skill/blob/master/python/2_code.py)
