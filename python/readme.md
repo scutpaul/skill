@@ -19,6 +19,11 @@
 ## 函数控制结构
 * if_else [3_if_else](https://github.com/scutpaul/skill/blob/master/python/3_if_else.py)
 * loop [3_loop](https://github.com/scutpaul/skill/blob/master/python/3_loop.py)
+* for: for x in rang(1,11)
+[5_for_in](https://github.com/scutpaul/skill/blob/master/python/5_for_in.py)
+[5_generator](https://github.com/scutpaul/skill/blob/master/python/5_generator.py)
+、取最大最小[5_find_min_max](https://github.com/scutpaul/skill/blob/master/python/5_find_min_max.py)
+
 
 ## 函数
 * 使用系统函数 max abs [4_use_function](https://github.com/scutpaul/skill/blob/master/python/4_use_function.py)
@@ -27,3 +32,12 @@
 * 递归的设计 汉诺塔
 [4_digui](https://github.com/scutpaul/skill/blob/master/python/4_digui.py.py)
 [4_hanoi_tower](https://github.com/scutpaul/skill/blob/master/python/4_hanoi_tower.py)
+
+## 高级特性
+* 切片 取第i到n的数，可倒序取、间隔取[5_slice_cut_list](https://github.com/scutpaul/skill/blob/master/python/5_slice_cut_list.py) 、去空格[5_slice_strip](https://github.com/scutpaul/skill/blob/master/python/5_slice_strip.py)
+* 迭代 判断是否可迭代 enumerate把一个list变成索引-元素对 [5_for_in](https://github.com/scutpaul/skill/blob/master/python/5_for_in.py)
+* 列表生成 使用列表生成式生成复杂的列表 有if for [5_list_generator](https://github.com/scutpaul/skill/blob/master/python/5_list_generator.py)
+* 生成 列表生成器限制，故使用yield 每次遇到yield就停
+[5_generator](https://github.com/scutpaul/skill/blob/master/python/5_generator.py)斐波那契数列 [5_generator_Fibonacci](https://github.com/scutpaul/skill/blob/master/python/5_generator_Fibonacci.py)
+杨辉三角[5_generator_Pascal_Triangle](https://github.com/scutpaul/skill/blob/master/python/5_generator_Pascal_Triangle.py)
+* 迭代 可迭代（可for）与迭代器（不存储） [5_iterable](https://github.com/scutpaul/skill/blob/master/python/5_iterable.py)
