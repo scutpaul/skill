@@ -14,7 +14,7 @@
 
 ## 比较高级的数据结构
 * dict字典，set集合 [3_dict_set](https://github.com/scutpaul/skill/blob/master/python/3_dict_set.py)
-*
+
 
 ## 函数控制结构
 * if_else [3_if_else](https://github.com/scutpaul/skill/blob/master/python/3_if_else.py)
@@ -48,3 +48,7 @@
 * MapReduce map作用于每个元素相同,reduce迭代作用 [lambda] [6_map_reduce](https://github.com/scutpaul/skill/blob/master/python/6_map_reduce.py) str2int、str2float[6_str2int](https://github.com/scutpaul/skill/blob/master/python/6_str2int.py)
 * Filter:决定是否要过滤 筛选函数作用于每一个元素 [6_filter](https://github.com/scutpaul/skill/blob/master/python/6_filter.py) 生成素数 [6_filter_prime](https://github.com/scutpaul/skill/blob/master/python/6_filter_prime.py) 生成回文字 [6_filter_huiwenshu](https://github.com/scutpaul/skill/blob/master/python/6_filter_huiwenshu.py)
 * Sort 排序sorted()可支持列表、与key函数等函数传入 [6_sort](https://github.com/scutpaul/skill/blob/master/python/6_sort.py)
+* 返回函数 程序的闭包变量[循环变量会保存] [7_return_func](https://github.com/scutpaul/skill/blob/master/python/7_return_func.py)
+* Lambda 匿名函数：python中函数可以作为参数传输、只能有一个表达式 [7_lambda](https://github.com/scutpaul/skill/blob/master/python/7_lambda.py)
+* Decorator 装饰器：使用@log(可带参数):实现：now = log('execute')(now) 作为装饰器[7_decorator](https://github.com/scutpaul/skill/blob/master/python/7_decorator.py)打印程序运行时间[7_decorator_time](https://github.com/scutpaul/skill/blob/master/python/7_decorator_time.py)
+* partical function: 偏函数[固定住函数的默认函数] [7_partial_function]((https://github.com/scutpaul/skill/blob/master/python/7_partial_function.py)

@@ -52,3 +52,6 @@ str split
 s = '123.456'
 s = s.split('.')
 print('s.split:',s)
+
+import time
+start = time.clock()#程序自开始运行的时间：s为单位
