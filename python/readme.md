@@ -51,4 +51,15 @@
 * 返回函数 程序的闭包变量[循环变量会保存] [7_return_func](https://github.com/scutpaul/skill/blob/master/python/7_return_func.py)
 * Lambda 匿名函数：python中函数可以作为参数传输、只能有一个表达式 [7_lambda](https://github.com/scutpaul/skill/blob/master/python/7_lambda.py)
 * Decorator 装饰器：使用@log(可带参数):实现：now = log('execute')(now) 作为装饰器[7_decorator](https://github.com/scutpaul/skill/blob/master/python/7_decorator.py)打印程序运行时间[7_decorator_time](https://github.com/scutpaul/skill/blob/master/python/7_decorator_time.py)
-* partical function: 偏函数[固定住函数的默认函数] [7_partial_function]((https://github.com/scutpaul/skill/blob/master/python/7_partial_function.py)
+* partical function: 偏函数[固定住函数的默认函数] [7_partial_function](https://github.com/scutpaul/skill/blob/master/python/7_partial_function.py)
+
+## 模块
+* 模块的介绍 [廖雪峰的网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014318447437605e90206e261744c08630a836851f5183000)
+* 使用模块 __name__ 的使用 [hello](https://github.com/scutpaul/skill/blob/master/python/hello.py)
+
+## 面向对象编程
+* 类与示例 实例参数self、继承类object 、动态添加实例的属性 [8_class_instance](https://github.com/scutpaul/skill/blob/master/python/8_class_instance.py)
+* 访问限制 保护 私有变量使用下划线 但是python并不是保护起来只是把外部名字改了。[8_class_protected](https://github.com/scutpaul/skill/blob/master/python/8_class_protected.py)
+* 继承与多态 多态的开闭原则：包含文字解释[8_class_dog_cat](https://github.com/scutpaul/skill/blob/master/python/8_class_dog_cat.py)
+* 获取对象的信息 type()获取类别、types模块类别、isinstance()父子类别、dir类的所有属性与方法、attr的操作：（get、has、set）[8_class_gettype](https://github.com/scutpaul/skill/blob/master/python/8_class_gettype.py)
+* 类属性与实例属性 [8_class_attr](https://github.com/scutpaul/skill/blob/master/python/8_class_attr.py)
