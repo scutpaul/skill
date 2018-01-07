@@ -41,3 +41,10 @@
 [5_generator](https://github.com/scutpaul/skill/blob/master/python/5_generator.py)斐波那契数列 [5_generator_Fibonacci](https://github.com/scutpaul/skill/blob/master/python/5_generator_Fibonacci.py)
 杨辉三角[5_generator_Pascal_Triangle](https://github.com/scutpaul/skill/blob/master/python/5_generator_Pascal_Triangle.py)
 * 迭代 可迭代（可for）与迭代器（不存储） [5_iterable](https://github.com/scutpaul/skill/blob/master/python/5_iterable.py)
+
+## 函数式编程
+
+* 高阶函数： 支持传入参数为函数[6_higher_other](https://github.com/scutpaul/skill/blob/master/python/6_higher_other.py)
+* MapReduce map作用于每个元素相同,reduce迭代作用 [lambda] [6_map_reduce](https://github.com/scutpaul/skill/blob/master/python/6_map_reduce.py) str2int、str2float[6_str2int](https://github.com/scutpaul/skill/blob/master/python/6_str2int.py)
+* Filter:决定是否要过滤 筛选函数作用于每一个元素 [6_filter](https://github.com/scutpaul/skill/blob/master/python/6_filter.py) 生成素数 [6_filter_prime](https://github.com/scutpaul/skill/blob/master/python/6_filter_prime.py) 生成回文字 [6_filter_huiwenshu](https://github.com/scutpaul/skill/blob/master/python/6_filter_huiwenshu.py)
+* Sort 排序sorted()可支持列表、与key函数等函数传入 [6_sort](https://github.com/scutpaul/skill/blob/master/python/6_sort.py)

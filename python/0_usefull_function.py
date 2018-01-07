@@ -30,3 +30,25 @@ for i, value in enumerate(['A', 'B', 'C']):
 这些可以直接作用于for循环的对象统称为可迭代对象：Iterable。
 可以使用isinstance()判断一个对象是否是Iterable对象
 '''
+'''
+使用reduce 将列表转成数字
+'''
+from functools import reduce
+def trans_to_in(x,y):
+    return x*10+y
+print("reduce(trans_to_in,[1,3,5,7,9])",reduce(trans_to_in,[1,3,5,7,9]))
+
+'''
+lambda
+'''
+
+'''
+str title首字母大写
+'''
+print('CHHH'.title())
+'''
+str split
+'''
+s = '123.456'
+s = s.split('.')
+print('s.split:',s)
