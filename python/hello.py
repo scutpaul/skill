@@ -30,3 +30,7 @@ if __name__=='__main__':
 private用'_abc'此类表示
 编程习惯要避免出现引用'_abc'此类，但python并不会阻止你。
 '''
+
+class Hello(object):
+    def hello(self,name='world'):
+        print('Hello,%s' % name)

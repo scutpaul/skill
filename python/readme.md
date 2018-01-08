@@ -63,3 +63,15 @@
 * 继承与多态 多态的开闭原则：包含文字解释[8_class_dog_cat](https://github.com/scutpaul/skill/blob/master/python/8_class_dog_cat.py)
 * 获取对象的信息 type()获取类别、types模块类别、isinstance()父子类别、dir类的所有属性与方法、attr的操作：（get、has、set）[8_class_gettype](https://github.com/scutpaul/skill/blob/master/python/8_class_gettype.py)
 * 类属性与实例属性 [8_class_attr](https://github.com/scutpaul/skill/blob/master/python/8_class_attr.py)
+
+## 面向对象的高级编程
+* 方法的绑定-限制绑定属性 slots  [9_bind_function](https://github.com/scutpaul/skill/blob/master/python/9_bind_function.py)
+* property 将get_score装饰成像操作变量一样[9_property](https://github.com/scutpaul/skill/blob/master/python/9_property.py)
+* 多重继承 多父类继承-一个主线其他MixIn[9_multi_class](https://github.com/scutpaul/skill/blob/master/python/9_multi_class.py)
+* 定制函数 双下划线的特殊函数：如（name.str.iter.getitem.setitem.getattr.call）动态调用API [9_special](https://github.com/scutpaul/skill/blob/master/python/9_special.py) 更多：[官方文档](https://docs.python.org/3/reference/datamodel.html#special-method-names)
+* Enum 枚举类 将常量定义定义于class中 [9_enum](https://github.com/scutpaul/skill/blob/master/python/9_enum.py) [CSDN参考](http://www.cnblogs.com/ucos/p/5896861.html)
+* 元类 [廖雪峰的网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014319106919344c4ef8b1e04c48778bb45796e0335839000)
+
+
+待续。。。
+-----
